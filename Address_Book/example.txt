@@ -1,1 +1,2 @@
-Wardah Haya,Swat,123456,khan@12345
+Saud Ahmad,Swat,0123456,saud@gmail.com
+Wardah Haya,Kashmir,0123456,wardah@giki.edu.pk
