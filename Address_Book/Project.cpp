@@ -271,6 +271,7 @@ int main()
         case 1:
         {
             obj.Append();
+            root = obj.file_to_tree();
             break;
         }
         case 2:
